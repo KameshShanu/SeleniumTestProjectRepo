@@ -199,4 +199,3 @@ C:\Users\KGanegama\Documents\GitHub\SeleniumTestProjectRepo\SeleniumIISExpress\S
 C:\Users\KGanegama\Documents\GitHub\SeleniumTestProjectRepo\SeleniumIISExpress\SeleniumIISExpress\obj\Debug\SeleniumIISExpress.csproj.CopyComplete
 C:\Users\KGanegama\Documents\GitHub\SeleniumTestProjectRepo\SeleniumIISExpress\SeleniumIISExpress\obj\Debug\SeleniumIISExpress.dll
 C:\Users\KGanegama\Documents\GitHub\SeleniumTestProjectRepo\SeleniumIISExpress\SeleniumIISExpress\obj\Debug\SeleniumIISExpress.pdb
-C:\Users\KGanegama\Documents\GitHub\SeleniumTestProjectRepo\SeleniumIISExpress\SeleniumIISExpress\obj\Debug\SeleniumIISExpress.csprojAssemblyReference.cache
